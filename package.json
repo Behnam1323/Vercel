@@ -1,0 +1,12 @@
+{
+  "name": "vercel-vless-proxy",
+  "version": "1.0.0",
+  "description": "Simple VLESS WS Proxy for Vercel",
+  "main": "api/ws.js",
+  "scripts": {
+    "dev": "node api/ws.js"
+  },
+  "dependencies": {
+    "ws": "^8.14.2"
+  }
+}
